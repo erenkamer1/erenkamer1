@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenkamer1&label=Profile%20views&color=0e75b6&style=flat" alt="erenkamer1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenkamer1" alt="erenkamer1" /></a> </p>
+
 
 - 🔭 I’m currently working on [Finance-Banking](https://github.com/erenkamer1/Finance-Banking-System)
 
@@ -33,5 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenkamer1&show_icons=true&locale=en&layout=compact" alt="erenkamer1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenkamer1&show_icons=true&locale=en" alt="erenkamer1" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenkamer1" alt="erenkamer1" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkamer1&" alt="erenkamer1" /></p>
