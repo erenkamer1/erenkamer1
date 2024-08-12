@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **erenkamer.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.usercontent.google.com/download?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download&authuser=0](https://drive.usercontent.google.com/download?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download&authuser=0)
+- 📄 Know about my experiences <p><a href="https://drive.usercontent.google.com/u/0/uc?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download>Download my CV</a></p>
 
 - ⚡ Fun fact **I am musician**
 
@@ -33,6 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenkamer1&show_icons=true&locale=en&layout=compact" alt="erenkamer1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenkamer1&show_icons=true&locale=en" alt="erenkamer1" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenkamer1" alt="erenkamer1" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenkamer1&" alt="erenkamer1" /></p>
