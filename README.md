@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences <p><a href="https://drive.usercontent.google.com/u/0/uc?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download">Download my CV</a></p>
 
-
 - ⚡ Fun fact **I am musician**
 
 <h3 align="left">Connect with me:</h3>
