@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt="MasterHead" style="display: block; margin: 0 auto; max-width: 100; height: auto;">
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt="MasterHead" style="margin: auto">
 
 <h1 align="center">Hi 👋, I'm Eren Kamer</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
