@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)
 <h1 align="center">Hi 👋, I'm Eren Kamer</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
