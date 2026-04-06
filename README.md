@@ -3,26 +3,25 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Eren Kamer</h1>
-<h3 align="center">A passionate full stack developer based in Austria</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenkamer1&label=Profile%20views&color=0e75b6&style=flat" alt="erenkamer1" /> </p>
 
 - 🎓 Accepted to **Master’s in Artificial Intelligence** at Johannes Kepler University Linz (starting September 2025)
 
-- 👨‍💻 Currently working at **Uni Software Plus GmbH** on enterprise-level ASP.NET MVC (.NET 8) applications  
-  with integrations to **SAP** and Engel Machine Interface
+- 👨‍💻 Experienced in building scalable enterprise-level ASP.NET MVC (.NET 8) applications 
+  with integrations to **SAP** and machine interfaces
 
-- 🔧 Previously worked at **NarPOS** using **Angular**, **TypeScript**, **ASP.NET Core**, and **MSSQL**  
-  in agile environments improving system performance and user experience
+- 🔧 Strong background using **Angular**, **TypeScript**, **ASP.NET Core**, and **MSSQL** in agile environments to improve system performance and user experience
 
-- 🌱 Currently deepening expertise in **TypeScript**, **.NET ecosystem**, and **AI-focused software development**
+- 🌱 Currently deepening expertise in **Machine Learning**, **Python**, and **AI-focused software development**
 
 - 💼 Portfolio and Projects: [https://erenkamer.surge.sh/](https://erenkamer.surge.sh/)
 
 - 📄 [Download my CV](https://drive.usercontent.google.com/u/0/uc?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download)
 
-- 📫 Reach me at: **erenkamer.dev@gmail.com**
+- 📫 Reach me at: **erenkamer.dev1@gmail.com**
 
 - 🎸 Fun fact: I’m an experienced guitarist and used to perform live!
 
@@ -40,6 +39,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -58,12 +58,21 @@
 
 <h3 align="left">Featured Projects:</h3>
 
+- 🤖 [AI-Powered Crypto Trading Bot](https://github.com/erenkamer1/Crypto-Bot)  
+  Python, Machine Learning, XGBoost | Automated cryptocurrency trading bot integrating technical indicators like WaveTrend.
+
+- 💰 Expense Tracker - Daily Budget (Published App)  
+  React Native | Real-time expense tracking and budgeting features with a clean, user-friendly UI.
+
+- 🏋️‍♂️ GymBuddy (iOS + Apple Watch)  
+  Swift, WatchOS | Cross-platform fitness tracking app with real-time device sync and analytics.
+
 - 🥗 [Recipe Web App](https://projects.barcelonacodeschool.com/eren-recipies/)  
   React, Express, MongoDB | Search, save, and manage favorite recipes  
   [GitHub](https://github.com/erenkamer1/Recipe-App)
 
 - ⏱️ [React Native Timer App](https://github.com/erenkamer1/React-Native-Timer-App)  
-  Real-time countdown timer with intuitive picker UI using Expo
+  React Native | Real-time countdown timer with intuitive picker UI using Expo
 
 ---
 
