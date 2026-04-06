@@ -17,7 +17,7 @@
 
 - 🌱 Currently deepening expertise in **Machine Learning**, **Python**, and **AI-focused software development**
 
-- 📄 [Download my CV](./Eren_Kamer_CV.pdf)
+- 📄 [Download my CV](https://github.com/erenkamer1/erenkamer1/raw/main/Eren_Kamer_CV.pdf)
 
 - 📫 Reach me at: **erenkamer.dev1@gmail.com**
 
