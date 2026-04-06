@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
+  <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Eren Kamer</h1>
@@ -17,9 +17,7 @@
 
 - 🌱 Currently deepening expertise in **Machine Learning**, **Python**, and **AI-focused software development**
 
-- 💼 Portfolio and Projects: [https://erenkamer.surge.sh/](https://erenkamer.surge.sh/)
-
-- 📄 [Download my CV](https://drive.usercontent.google.com/u/0/uc?id=1SnZK3ax_L5YPU0bUZGdhWTcKdGzDJlMc&export=download)
+- 📄 [Download my CV](./Eren_Kamer_CV.pdf)
 
 - 📫 Reach me at: **erenkamer.dev1@gmail.com**
 
@@ -66,13 +64,6 @@
 
 - 🏋️‍♂️ GymBuddy (iOS + Apple Watch)  
   Swift, WatchOS | Cross-platform fitness tracking app with real-time device sync and analytics.
-
-- 🥗 [Recipe Web App](https://projects.barcelonacodeschool.com/eren-recipies/)  
-  React, Express, MongoDB | Search, save, and manage favorite recipes  
-  [GitHub](https://github.com/erenkamer1/Recipe-App)
-
-- ⏱️ [React Native Timer App](https://github.com/erenkamer1/React-Native-Timer-App)  
-  React Native | Real-time countdown timer with intuitive picker UI using Expo
 
 ---
 
